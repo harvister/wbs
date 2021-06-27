@@ -328,14 +328,6 @@
     "added": "2021-06-25T06:23:51Z"
   },
   {
-    "name": "Let It Rock",
-    "artist": "Kevin Rudolf",
-    "album": "Let It Rock",
-    "released": "2008",
-    "duration": 181186,
-    "added": "2021-06-25T06:23:51Z"
-  },
-  {
     "name": "Viva La Vida",
     "artist": "Coldplay",
     "album": "Viva La Vida or Death and All His Friends",
@@ -2438,5 +2430,13 @@
     "released": "2012-01-01",
     "duration": 153866,
     "added": "2021-06-26T14:49:58Z"
+  },
+  {
+    "name": "Let It Rock",
+    "artist": "Kevin Rudolf",
+    "album": "In The City",
+    "released": "2008-01-01",
+    "duration": 231173,
+    "added": "2021-06-27T15:41:19Z"
   }
 ]
