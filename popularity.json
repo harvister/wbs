@@ -772,10 +772,6 @@
     "popularity": 58
   },
   {
-    "name": "Ventura Highway",
-    "popularity": 34
-  },
-  {
     "name": "Icky Thump",
     "popularity": 68
   },
@@ -1218,5 +1214,9 @@
   {
     "name": "Let It Rock",
     "popularity": 66
+  },
+  {
+    "name": "Ventura Highway",
+    "popularity": 70
   }
 ]

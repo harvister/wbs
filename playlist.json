@@ -1544,14 +1544,6 @@
     "added": "2021-06-25T06:23:51Z"
   },
   {
-    "name": "Ventura Highway",
-    "artist": "America",
-    "album": "Hits",
-    "released": "2011-03-15",
-    "duration": 217053,
-    "added": "2021-06-25T06:23:51Z"
-  },
-  {
     "name": "Icky Thump",
     "artist": "The White Stripes",
     "album": "Icky Thump",
@@ -2438,5 +2430,13 @@
     "released": "2008-01-01",
     "duration": 231173,
     "added": "2021-06-27T15:41:19Z"
+  },
+  {
+    "name": "Ventura Highway",
+    "artist": "America",
+    "album": "Homecoming",
+    "released": "1972-01-01",
+    "duration": 211386,
+    "added": "2021-06-27T18:52:24Z"
   }
 ]
