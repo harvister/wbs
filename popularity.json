@@ -388,10 +388,6 @@
     "popularity": 75
   },
   {
-    "name": "Thrift Shop (feat. Wanz)",
-    "popularity": 55
-  },
-  {
     "name": "Feel It Still",
     "popularity": 78
   },
@@ -1218,5 +1214,9 @@
   {
     "name": "Ventura Highway",
     "popularity": 70
+  },
+  {
+    "name": "Thrift Shop (feat. Wanz)",
+    "popularity": 69
   }
 ]

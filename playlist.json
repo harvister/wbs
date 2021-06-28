@@ -776,14 +776,6 @@
     "added": "2021-06-25T06:23:51Z"
   },
   {
-    "name": "Thrift Shop (feat. Wanz)",
-    "artist": "Macklemore & Ryan Lewis",
-    "album": "The Heist",
-    "released": "2012-10-09",
-    "duration": 235982,
-    "added": "2021-06-25T06:23:51Z"
-  },
-  {
     "name": "Feel It Still",
     "artist": "Portugal. The Man",
     "album": "Woodstock",
@@ -2438,5 +2430,13 @@
     "released": "1972-01-01",
     "duration": 211386,
     "added": "2021-06-27T18:52:24Z"
+  },
+  {
+    "name": "Thrift Shop (feat. Wanz)",
+    "artist": "Macklemore",
+    "album": "Thrift Shop (feat. Wanz)",
+    "released": "2012-08-01",
+    "duration": 235613,
+    "added": "2021-06-28T19:58:15Z"
   }
 ]
