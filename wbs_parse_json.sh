@@ -1,20 +1,19 @@
-# jq "[.items[] | { \
-#     name: .track.name, \
-#     artist: .track.artists[0].name, \
-#     album: .track.album.name, \
-#     duration: .track.duration_ms, \
-#     added: .added_at \
-#   }]" \
-#   temp_4.json
+set -e
 
-jq -s "[.[].items[] | { \
+jq "[.[].items[] | { \
     name: .track.name, \
     artist: .track.artists[0].name, \
     album: .track.album.name, \
+    released: .track.album.release_date, \
     duration: .track.duration_ms, \
     added: .added_at \
   }]" \
-  temp_1.json temp_2.json temp_3.json temp_4.json
-  # temp_4.json temp_4_copy.json
+  raw.json > playlist.json
 
-# jq -s ".[0] + .[1]" temp.json "temp copy.json" > tempx.json
+jq "[.[].items[] | { \
+    name: .track.name, \
+    popularity: .track.popularity
+  }]" \
+  raw.json > popularity.json
+
+rm raw.json
