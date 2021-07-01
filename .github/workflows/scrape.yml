@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: get data
-        run: ./wbs_get_json.sh
-      - name: parse data
-        run: ./wbs_parse_json.sh
+      - name: get AF playlist
+        run: ./wbs_get_json.sh 44c831zcVMnzLHIatXe4N4 > playlist.json
+      - name: get franssen playlist
+        run: ./wbs_get_json.sh 44LsKI7378Wl34it2kaK7b > playlist_franssen.json
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
