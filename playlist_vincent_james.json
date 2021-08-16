@@ -1,0 +1,1498 @@
+[
+  {
+    "name": "Mr. Brightside",
+    "artist": "The Killers",
+    "album": "Hot Fuss",
+    "released": "2004-06-15",
+    "duration": 222586,
+    "added": "2021-05-29T06:45:28Z"
+  },
+  {
+    "name": "Open Road Song",
+    "artist": "Eve 6",
+    "album": "Eve 6",
+    "released": "1998",
+    "duration": 194866,
+    "added": "2021-05-29T18:44:06Z"
+  },
+  {
+    "name": "Santeria",
+    "artist": "Sublime",
+    "album": "Sublime",
+    "released": "1996-07-30",
+    "duration": 182746,
+    "added": "2021-05-29T08:05:36Z"
+  },
+  {
+    "name": "In the Summertime",
+    "artist": "Mungo Jerry",
+    "album": "In the Summertime",
+    "released": "1970-01-01",
+    "duration": 211880,
+    "added": "2021-05-29T08:38:47Z"
+  },
+  {
+    "name": "1985",
+    "artist": "Bowling For Soup",
+    "album": "A Hangover You Don't Deserve",
+    "released": "2004",
+    "duration": 193000,
+    "added": "2021-05-29T07:18:41Z"
+  },
+  {
+    "name": "Otherside",
+    "artist": "Red Hot Chili Peppers",
+    "album": "Californication (Deluxe Edition)",
+    "released": "1999-06-08",
+    "duration": 255373,
+    "added": "2021-05-29T07:12:53Z"
+  },
+  {
+    "name": "Dirty Little Secret",
+    "artist": "The All-American Rejects",
+    "album": "Move Along",
+    "released": "2005-01-01",
+    "duration": 193653,
+    "added": "2021-05-29T07:23:33Z"
+  },
+  {
+    "name": "Island In The Sun",
+    "artist": "Weezer",
+    "album": "Weezer (Green Album)",
+    "released": "2001-05-15",
+    "duration": 200306,
+    "added": "2021-05-29T07:57:38Z"
+  },
+  {
+    "name": "Sugar, We're Goin Down",
+    "artist": "Fall Out Boy",
+    "album": "From Under The Cork Tree",
+    "released": "2005-05-03",
+    "duration": 229093,
+    "added": "2021-05-29T07:31:14Z"
+  },
+  {
+    "name": "Summer Of '69",
+    "artist": "Bryan Adams",
+    "album": "Reckless (30th Anniversary / Deluxe Edition)",
+    "released": "1984-11-05",
+    "duration": 216053,
+    "added": "2021-05-29T07:39:13Z"
+  },
+  {
+    "name": "Paradise City",
+    "artist": "Guns N' Roses",
+    "album": "Appetite For Destruction",
+    "released": "1987-07-21",
+    "duration": 405600,
+    "added": "2021-05-29T07:47:38Z"
+  },
+  {
+    "name": "The Middle",
+    "artist": "Jimmy Eat World",
+    "album": "Bleed American",
+    "released": "2001-07-17",
+    "duration": 165853,
+    "added": "2021-05-29T07:57:24Z"
+  },
+  {
+    "name": "Say It Ain't So",
+    "artist": "Weezer",
+    "album": "Weezer",
+    "released": "1994-05-10",
+    "duration": 258826,
+    "added": "2021-05-29T07:57:51Z"
+  },
+  {
+    "name": "Jumper - 1998 Edit",
+    "artist": "Third Eye Blind",
+    "album": "Third Eye Blind",
+    "released": "1997-04-08",
+    "duration": 272973,
+    "added": "2021-05-29T09:25:37Z"
+  },
+  {
+    "name": "Stacy's Mom",
+    "artist": "Fountains Of Wayne",
+    "album": "Welcome Interstate Managers",
+    "released": "2003-01-01",
+    "duration": 197986,
+    "added": "2021-05-29T07:58:00Z"
+  },
+  {
+    "name": "Fireflies",
+    "artist": "Owl City",
+    "album": "Ocean Eyes",
+    "released": "2009-01-01",
+    "duration": 228346,
+    "added": "2021-05-29T09:05:07Z"
+  },
+  {
+    "name": "Your Love",
+    "artist": "The Outfield",
+    "album": "Play Deep",
+    "released": "1985-06-29",
+    "duration": 216466,
+    "added": "2021-05-29T07:59:35Z"
+  },
+  {
+    "name": "Kokomo",
+    "artist": "The Beach Boys",
+    "album": "Made In California",
+    "released": "2013-01-01",
+    "duration": 217786,
+    "added": "2021-05-29T08:17:43Z"
+  },
+  {
+    "name": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "album": "Slippery When Wet",
+    "released": "1986-08-16",
+    "duration": 249293,
+    "added": "2021-05-29T08:00:33Z"
+  },
+  {
+    "name": "Inside Out",
+    "artist": "Eve 6",
+    "album": "Eve 6",
+    "released": "1998",
+    "duration": 219466,
+    "added": "2021-05-29T18:43:54Z"
+  },
+  {
+    "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+    "artist": "Eiffel 65",
+    "album": "Europop",
+    "released": "2011-01-05",
+    "duration": 283747,
+    "added": "2021-06-12T01:08:01Z"
+  },
+  {
+    "name": "Midnight City",
+    "artist": "M83",
+    "album": "Hurry Up, We're Dreaming",
+    "released": "2011",
+    "duration": 241440,
+    "added": "2021-05-29T08:00:44Z"
+  },
+  {
+    "name": "All The Small Things",
+    "artist": "blink-182",
+    "album": "Enema Of The State",
+    "released": "1999-06-01",
+    "duration": 167066,
+    "added": "2021-05-29T08:01:42Z"
+  },
+  {
+    "name": "Jessie's Girl",
+    "artist": "Rick Springfield",
+    "album": "Working Class Dog",
+    "released": "1981",
+    "duration": 194120,
+    "added": "2021-05-29T08:01:51Z"
+  },
+  {
+    "name": "Good Riddance (Time of Your Life)",
+    "artist": "Green Day",
+    "album": "Nimrod",
+    "released": "1997-10-14",
+    "duration": 153466,
+    "added": "2021-05-29T08:03:18Z"
+  },
+  {
+    "name": "Born On The Bayou",
+    "artist": "Creedence Clearwater Revival",
+    "album": "Bayou Country",
+    "released": "1969-01-05",
+    "duration": 314666,
+    "added": "2021-05-30T07:40:47Z"
+  },
+  {
+    "name": "Semi-Charmed Life",
+    "artist": "Third Eye Blind",
+    "album": "Third Eye Blind",
+    "released": "1997-04-08",
+    "duration": 268360,
+    "added": "2021-05-29T08:05:25Z"
+  },
+  {
+    "name": "Hotel California - 2013 Remaster",
+    "artist": "Eagles",
+    "album": "Hotel California (2013 Remaster)",
+    "released": "1976-12-08",
+    "duration": 391376,
+    "added": "2021-05-29T07:57:56Z"
+  },
+  {
+    "name": "Basket Case",
+    "artist": "Green Day",
+    "album": "Dookie",
+    "released": "1994-02-01",
+    "duration": 181533,
+    "added": "2021-05-29T08:03:38Z"
+  },
+  {
+    "name": "Beverly Hills",
+    "artist": "Weezer",
+    "album": "Make Believe",
+    "released": "2005-05-10",
+    "duration": 196093,
+    "added": "2021-05-29T08:04:19Z"
+  },
+  {
+    "name": "Under the Bridge",
+    "artist": "Red Hot Chili Peppers",
+    "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+    "released": "1991-09-24",
+    "duration": 264306,
+    "added": "2021-05-29T08:04:29Z"
+  },
+  {
+    "name": "Fortunate Son",
+    "artist": "Creedence Clearwater Revival",
+    "album": "Willy And The Poor Boys",
+    "released": "1969-11-02",
+    "duration": 140773,
+    "added": "2021-05-29T08:22:53Z"
+  },
+  {
+    "name": "Don't Stop Believin'",
+    "artist": "Journey",
+    "album": "Escape",
+    "released": "1981",
+    "duration": 250986,
+    "added": "2021-05-29T08:02:25Z"
+  },
+  {
+    "name": "Fly",
+    "artist": "Sugar Ray",
+    "album": "Floored",
+    "released": "1997-06-20",
+    "duration": 244640,
+    "added": "2021-05-29T08:06:10Z"
+  },
+  {
+    "name": "Every Morning",
+    "artist": "Sugar Ray",
+    "album": "14:59",
+    "released": "1998-12-23",
+    "duration": 219866,
+    "added": "2021-05-29T08:06:18Z"
+  },
+  {
+    "name": "Fat Lip",
+    "artist": "Sum 41",
+    "album": "All Killer, No Filler",
+    "released": "2001-01-01",
+    "duration": 178266,
+    "added": "2021-05-29T08:08:44Z"
+  },
+  {
+    "name": "Californication",
+    "artist": "Red Hot Chili Peppers",
+    "album": "Californication (Deluxe Edition)",
+    "released": "1999-06-08",
+    "duration": 329733,
+    "added": "2021-05-29T07:13:55Z"
+  },
+  {
+    "name": "You Give Love A Bad Name",
+    "artist": "Bon Jovi",
+    "album": "Slippery When Wet",
+    "released": "1986-08-16",
+    "duration": 222706,
+    "added": "2021-05-29T08:02:44Z"
+  },
+  {
+    "name": "Flagpole Sitta",
+    "artist": "Harvey Danger",
+    "album": "Where Have All The Merrymakers Gone?",
+    "released": "1997-01-01",
+    "duration": 217266,
+    "added": "2021-05-29T08:06:54Z"
+  },
+  {
+    "name": "Should I Stay or Should I Go - Remastered",
+    "artist": "The Clash",
+    "album": "Combat Rock (Remastered)",
+    "released": "1982",
+    "duration": 188986,
+    "added": "2021-05-29T08:07:20Z"
+  },
+  {
+    "name": "My Own Worst Enemy",
+    "artist": "Lit",
+    "album": "A Place In The Sun",
+    "released": "1999-02-22",
+    "duration": 169026,
+    "added": "2021-05-29T08:08:08Z"
+  },
+  {
+    "name": "Flavor Of The Weak",
+    "artist": "American Hi-Fi",
+    "album": "American Hi-Fi",
+    "released": "2001-01-01",
+    "duration": 188840,
+    "added": "2021-05-29T08:08:31Z"
+  },
+  {
+    "name": "Girl All the Bad Guys Want",
+    "artist": "Bowling For Soup",
+    "album": "Drunk Enough To Dance",
+    "released": "2002",
+    "duration": 197800,
+    "added": "2021-05-29T08:08:40Z"
+  },
+  {
+    "name": "The Boys Are Back In Town",
+    "artist": "Thin Lizzy",
+    "album": "Jailbreak (Deluxe Edition)",
+    "released": "1976",
+    "duration": 266720,
+    "added": "2021-05-29T08:09:38Z"
+  },
+  {
+    "name": "Hooked on a Feeling",
+    "artist": "Blue Swede",
+    "album": "Hooked On A Feeling",
+    "released": "1973",
+    "duration": 172866,
+    "added": "2021-05-29T08:10:39Z"
+  },
+  {
+    "name": "The Joker",
+    "artist": "Steve Miller Band",
+    "album": "The Joker",
+    "released": "1973-01-01",
+    "duration": 264503,
+    "added": "2021-05-29T08:13:49Z"
+  },
+  {
+    "name": "Sweet Home Alabama",
+    "artist": "Lynyrd Skynyrd",
+    "album": "Second Helping",
+    "released": "1974-04-15",
+    "duration": 283800,
+    "added": "2021-05-29T08:11:41Z"
+  },
+  {
+    "name": "Surfin' U.S.A. - Remastered 2001",
+    "artist": "The Beach Boys",
+    "album": "Surfin' USA (Remastered)",
+    "released": "1963-03-25",
+    "duration": 149373,
+    "added": "2021-05-29T08:10:47Z"
+  },
+  {
+    "name": "How's It Going to Be",
+    "artist": "Third Eye Blind",
+    "album": "Third Eye Blind",
+    "released": "1997-04-08",
+    "duration": 253413,
+    "added": "2021-05-29T09:19:33Z"
+  },
+  {
+    "name": "Magic Carpet Ride",
+    "artist": "Steppenwolf",
+    "album": "The Second",
+    "released": "1968-10-01",
+    "duration": 271573,
+    "added": "2021-05-29T08:12:31Z"
+  },
+  {
+    "name": "Hip To Be Square",
+    "artist": "Huey Lewis & The News",
+    "album": "Fore!",
+    "released": "1986-01-01",
+    "duration": 245466,
+    "added": "2021-05-29T08:13:02Z"
+  },
+  {
+    "name": "Grand Theft Autumn / Where Is Your Boy",
+    "artist": "Fall Out Boy",
+    "album": "Take This To Your Grave",
+    "released": "2003-05-06",
+    "duration": 191373,
+    "added": "2021-05-29T19:04:26Z"
+  },
+  {
+    "name": "Wipeout",
+    "artist": "The Surfaris",
+    "album": "The Year Is 1963",
+    "released": "2013-03-31",
+    "duration": 135773,
+    "added": "2021-05-29T08:13:11Z"
+  },
+  {
+    "name": "Little Deuce Coupe - Remastered",
+    "artist": "The Beach Boys",
+    "album": "Surfer Girl (Remastered)",
+    "released": "1963-09-16",
+    "duration": 100933,
+    "added": "2021-05-29T08:15:45Z"
+  },
+  {
+    "name": "House Of The Rising Sun",
+    "artist": "The Animals",
+    "album": "The Animals",
+    "released": "1964-01-01",
+    "duration": 271280,
+    "added": "2021-05-29T08:15:49Z"
+  },
+  {
+    "name": "You're So Last Summer - Remastered",
+    "artist": "Taking Back Sunday",
+    "album": "Tell All Your Friends (Remastered)",
+    "released": "2002-03-26",
+    "duration": 181336,
+    "added": "2021-05-29T18:57:28Z"
+  },
+  {
+    "name": "Stayin' Alive",
+    "artist": "Bee Gees",
+    "album": "Staying Alive (Original Motion Picture Soundtrack)",
+    "released": "1977-12-13",
+    "duration": 92866,
+    "added": "2021-05-29T08:16:13Z"
+  },
+  {
+    "name": "Seventy Times 7",
+    "artist": "Brand New",
+    "album": "Your Favorite Weapon (Deluxe Edition)",
+    "released": "2001",
+    "duration": 213640,
+    "added": "2021-05-29T18:42:15Z"
+  },
+  {
+    "name": "The Power Of Love",
+    "artist": "Huey Lewis & The News",
+    "album": "Greatest Hits: Huey Lewis And The News",
+    "released": "2006-01-01",
+    "duration": 234333,
+    "added": "2021-05-29T08:16:24Z"
+  },
+  {
+    "name": "Walking On Sunshine",
+    "artist": "Katrina & The Waves",
+    "album": "Katrina & The Waves",
+    "released": "1985",
+    "duration": 238733,
+    "added": "2021-05-29T08:16:38Z"
+  },
+  {
+    "name": "You Shook Me All Night Long",
+    "artist": "AC/DC",
+    "album": "Back In Black",
+    "released": "1980-07-25",
+    "duration": 210173,
+    "added": "2021-05-29T08:17:06Z"
+  },
+  {
+    "name": "I Get Around",
+    "artist": "The Beach Boys",
+    "album": "50 Big Ones: Greatest Hits",
+    "released": "2012-01-01",
+    "duration": 133760,
+    "added": "2021-05-29T08:17:12Z"
+  },
+  {
+    "name": "Ocean Avenue",
+    "artist": "Yellowcard",
+    "album": "Ocean Avenue",
+    "released": "2003-01-01",
+    "duration": 198266,
+    "added": "2021-05-29T18:41:23Z"
+  },
+  {
+    "name": "Surfin' Bird",
+    "artist": "The Trashmen",
+    "album": "Tube City! Best of The Trashmen",
+    "released": "1992-07-21",
+    "duration": 143293,
+    "added": "2021-05-29T08:17:30Z"
+  },
+  {
+    "name": "Smile Like You Mean It",
+    "artist": "The Killers",
+    "album": "Hot Fuss",
+    "released": "2004-06-15",
+    "duration": 234106,
+    "added": "2021-05-29T19:04:18Z"
+  },
+  {
+    "name": "Bad Moon Rising",
+    "artist": "Creedence Clearwater Revival",
+    "album": "Green River",
+    "released": "1969-08-03",
+    "duration": 141600,
+    "added": "2021-05-29T08:18:03Z"
+  },
+  {
+    "name": "We're Not Gonna Take It",
+    "artist": "Twisted Sister",
+    "album": "Stay Hungry",
+    "released": "1984-05-10",
+    "duration": 219666,
+    "added": "2021-05-29T08:18:09Z"
+  },
+  {
+    "name": "Down On The Corner",
+    "artist": "Creedence Clearwater Revival",
+    "album": "Willy And The Poor Boys",
+    "released": "1969-11-02",
+    "duration": 166280,
+    "added": "2021-05-29T08:18:26Z"
+  },
+  {
+    "name": "(You) Got What I Need",
+    "artist": "Freddie Scott",
+    "album": "Cry To Me-The Best Of Freddie Scott",
+    "released": "1998-02-17",
+    "duration": 179333,
+    "added": "2021-05-29T08:18:53Z"
+  },
+  {
+    "name": "Barbara Ann",
+    "artist": "The Beach Boys",
+    "album": "Spirit Of America",
+    "released": "1975-04-14",
+    "duration": 133893,
+    "added": "2021-05-29T08:19:26Z"
+  },
+  {
+    "name": "Jude Law And A Semester Abroad",
+    "artist": "Brand New",
+    "album": "Your Favorite Weapon",
+    "released": "2001",
+    "duration": 222080,
+    "added": "2021-05-29T19:03:29Z"
+  },
+  {
+    "name": "White Room",
+    "artist": "Cream",
+    "album": "Wheels Of Fire",
+    "released": "1968-07-01",
+    "duration": 298333,
+    "added": "2021-05-29T08:20:26Z"
+  },
+  {
+    "name": "Swing, Swing",
+    "artist": "The All-American Rejects",
+    "album": "The All-American Rejects",
+    "released": "2002-10-15",
+    "duration": 233266,
+    "added": "2021-05-29T18:57:44Z"
+  },
+  {
+    "name": "Going Up The Country",
+    "artist": "Canned Heat",
+    "album": "The Best Of Canned Heat",
+    "released": "1987-01-01",
+    "duration": 171373,
+    "added": "2021-05-29T08:20:35Z"
+  },
+  {
+    "name": "American Pie",
+    "artist": "Don McLean",
+    "album": "American Pie",
+    "released": "1971",
+    "duration": 516893,
+    "added": "2021-05-29T08:21:36Z"
+  },
+  {
+    "name": "Johnny B. Goode",
+    "artist": "Chuck Berry",
+    "album": "Berry Is On Top",
+    "released": "1959-07-01",
+    "duration": 161560,
+    "added": "2021-05-29T08:21:49Z"
+  },
+  {
+    "name": "Spirit In The Sky",
+    "artist": "Norman Greenbaum",
+    "album": "Spirit In The Sky",
+    "released": "1969-01-01",
+    "duration": 242893,
+    "added": "2021-05-29T08:22:46Z"
+  },
+  {
+    "name": "Sugar, Sugar",
+    "artist": "The Archies",
+    "album": "The Very Best Of \"The Archies\"",
+    "released": "2007-11-07",
+    "duration": 167186,
+    "added": "2021-05-29T08:23:27Z"
+  },
+  {
+    "name": "I Write Sins Not Tragedies",
+    "artist": "Panic! At The Disco",
+    "album": "A Fever You Can't Sweat Out",
+    "released": "2005-09-27",
+    "duration": 186634,
+    "added": "2021-05-29T18:54:53Z"
+  },
+  {
+    "name": "Rockin' the Suburbs",
+    "artist": "Ben Folds",
+    "album": "Rockin' The Suburbs",
+    "released": "2001-09-11",
+    "duration": 298533,
+    "added": "2021-05-29T08:25:09Z"
+  },
+  {
+    "name": "Dancing in the Moonlight",
+    "artist": "King Harvest",
+    "album": "Dancing in the Moonlight",
+    "released": "1973-01-01",
+    "duration": 181133,
+    "added": "2021-05-29T08:25:18Z"
+  },
+  {
+    "name": "Uptown Girl",
+    "artist": "Billy Joel",
+    "album": "An Innocent Man",
+    "released": "1983-08-08",
+    "duration": 197706,
+    "added": "2021-05-29T08:25:55Z"
+  },
+  {
+    "name": "Carry on Wayward Son",
+    "artist": "Kansas",
+    "album": "Leftoverture (Expanded Edition)",
+    "released": "1976",
+    "duration": 323000,
+    "added": "2021-05-29T08:26:01Z"
+  },
+  {
+    "name": "I'm Just a Kid",
+    "artist": "Simple Plan",
+    "album": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
+    "released": "2018-04-06",
+    "duration": 198333,
+    "added": "2021-05-29T18:59:33Z"
+  },
+  {
+    "name": "Bad, Bad Leroy Brown",
+    "artist": "Jim Croce",
+    "album": "Life & Times",
+    "released": "1973-07-01",
+    "duration": 182240,
+    "added": "2021-05-29T08:30:30Z"
+  },
+  {
+    "name": "You Make My Dreams (Come True)",
+    "artist": "Daryl Hall & John Oates",
+    "album": "Voices",
+    "released": "1980",
+    "duration": 190626,
+    "added": "2021-05-29T08:26:58Z"
+  },
+  {
+    "name": "Centerfold",
+    "artist": "The J. Geils Band",
+    "album": "Freeze Frame",
+    "released": "1981",
+    "duration": 216533,
+    "added": "2021-05-29T08:27:18Z"
+  },
+  {
+    "name": "My Sharona",
+    "artist": "The Knack",
+    "album": "Get The Knack",
+    "released": "1979-01-01",
+    "duration": 295400,
+    "added": "2021-05-29T08:27:25Z"
+  },
+  {
+    "name": "All Along the Watchtower",
+    "artist": "Jimi Hendrix",
+    "album": "Electric Ladyland",
+    "released": "1968-10-25",
+    "duration": 240800,
+    "added": "2021-05-29T08:26:32Z"
+  },
+  {
+    "name": "Any Way You Want It",
+    "artist": "Journey",
+    "album": "Departure",
+    "released": "1980",
+    "duration": 201693,
+    "added": "2021-05-29T08:27:31Z"
+  },
+  {
+    "name": "It's Still Rock and Roll to Me",
+    "artist": "Billy Joel",
+    "album": "Glass Houses",
+    "released": "1980-03-12",
+    "duration": 176440,
+    "added": "2021-05-29T08:27:53Z"
+  },
+  {
+    "name": "What I Like About You",
+    "artist": "The Romantics",
+    "album": "The Romantics",
+    "released": "1980",
+    "duration": 175266,
+    "added": "2021-05-29T08:28:06Z"
+  },
+  {
+    "name": "It's The End Of The World As We Know It (And I Feel Fine)",
+    "artist": "R.E.M.",
+    "album": "Document (R.E.M. No. 5)",
+    "released": "1987-09-01",
+    "duration": 246933,
+    "added": "2021-05-29T08:28:15Z"
+  },
+  {
+    "name": "Takin' Care Of Business",
+    "artist": "Bachman-Turner Overdrive",
+    "album": "Bachman-Turner Overdrive II",
+    "released": "1973-12-01",
+    "duration": 289893,
+    "added": "2021-05-29T08:29:21Z"
+  },
+  {
+    "name": "I'd Do Anything",
+    "artist": "Simple Plan",
+    "album": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
+    "released": "2018-04-06",
+    "duration": 197640,
+    "added": "2021-05-29T19:01:20Z"
+  },
+  {
+    "name": "Play That Funky Music",
+    "artist": "Wild Cherry",
+    "album": "Wild Cherry",
+    "released": "1976",
+    "duration": 300000,
+    "added": "2021-05-29T08:29:33Z"
+  },
+  {
+    "name": "Baba O'Riley",
+    "artist": "The Who",
+    "album": "Who's Next",
+    "released": "1971-08-14",
+    "duration": 300400,
+    "added": "2021-05-29T08:30:02Z"
+  },
+  {
+    "name": "Born in the U.S.A.",
+    "artist": "Bruce Springsteen",
+    "album": "Born In The U.S.A.",
+    "released": "1984-06-04",
+    "duration": 278680,
+    "added": "2021-05-29T08:30:56Z"
+  },
+  {
+    "name": "Pinball Wizard",
+    "artist": "The Who",
+    "album": "Tommy",
+    "released": "1969-05-23",
+    "duration": 180943,
+    "added": "2021-05-29T08:31:25Z"
+  },
+  {
+    "name": "The Devil Went Down to Georgia",
+    "artist": "The Charlie Daniels Band",
+    "album": "A Decade Of Hits",
+    "released": "1973",
+    "duration": 214866,
+    "added": "2021-05-29T08:31:34Z"
+  },
+  {
+    "name": "25 or 6 to 4 - 2002 Remaster",
+    "artist": "Chicago",
+    "album": "Chicago II",
+    "released": "1970-01-26",
+    "duration": 289800,
+    "added": "2021-05-29T08:31:45Z"
+  },
+  {
+    "name": "Hands Down",
+    "artist": "Dashboard Confessional",
+    "album": "A Mark, A Mission, A Brand, A Scar",
+    "released": "2003-01-01",
+    "duration": 186866,
+    "added": "2021-05-29T18:59:23Z"
+  },
+  {
+    "name": "Lola",
+    "artist": "The Kinks",
+    "album": "Lola Versus Powerman and the Moneygoround, Pt. One",
+    "released": "1970-11-27",
+    "duration": 241040,
+    "added": "2021-05-29T08:32:05Z"
+  },
+  {
+    "name": "Fat Bottomed Girls - Remastered 2011",
+    "artist": "Queen",
+    "album": "Jazz (Deluxe Remastered Version)",
+    "released": "1978-11-10",
+    "duration": 255600,
+    "added": "2021-05-29T08:32:10Z"
+  },
+  {
+    "name": "Cecilia",
+    "artist": "Simon & Garfunkel",
+    "album": "Bridge Over Troubled Water",
+    "released": "1970-01-26",
+    "duration": 174826,
+    "added": "2021-05-29T08:32:22Z"
+  },
+  {
+    "name": "Ramblin' Man",
+    "artist": "Allman Brothers Band",
+    "album": "Dreams",
+    "released": "1989-06-20",
+    "duration": 288506,
+    "added": "2021-05-29T08:32:44Z"
+  },
+  {
+    "name": "Free Bird",
+    "artist": "Lynyrd Skynyrd",
+    "album": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+    "released": "1973-01-01",
+    "duration": 547106,
+    "added": "2021-05-29T08:33:13Z"
+  },
+  {
+    "name": "Dancing With Myself - EP Version",
+    "artist": "Generation X",
+    "album": "Greatest Hits",
+    "released": "2001-01-01",
+    "duration": 290426,
+    "added": "2021-05-29T08:33:24Z"
+  },
+  {
+    "name": "Nobody But Me",
+    "artist": "The Human Beinz",
+    "album": "Nobody But Me",
+    "released": "1968-01-01",
+    "duration": 140440,
+    "added": "2021-05-29T08:33:43Z"
+  },
+  {
+    "name": "American Girl",
+    "artist": "Tom Petty and the Heartbreakers",
+    "album": "Tom Petty & The Heartbreakers",
+    "released": "1976-11-09",
+    "duration": 214733,
+    "added": "2021-05-29T08:34:21Z"
+  },
+  {
+    "name": "Free Fallin'",
+    "artist": "Tom Petty",
+    "album": "Full Moon Fever",
+    "released": "1989-01-01",
+    "duration": 256000,
+    "added": "2021-05-29T08:34:38Z"
+  },
+  {
+    "name": "Lookin' Out My Back Door",
+    "artist": "Creedence Clearwater Revival",
+    "album": "Cosmo's Factory",
+    "released": "1970-07-25",
+    "duration": 152453,
+    "added": "2021-05-29T08:34:55Z"
+  },
+  {
+    "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+    "artist": "AC/DC",
+    "album": "High Voltage",
+    "released": "1976-05-14",
+    "duration": 301226,
+    "added": "2021-05-29T08:35:41Z"
+  },
+  {
+    "name": "December, 1963 (Oh What a Night!)",
+    "artist": "Frankie Valli & The Four Seasons",
+    "album": "Who Loves You",
+    "released": "1975",
+    "duration": 197146,
+    "added": "2021-05-29T08:36:09Z"
+  },
+  {
+    "name": "Wipeout",
+    "artist": "The Ventures",
+    "album": "60s Rock Instrumental Collection, Vol. 2",
+    "released": "2006",
+    "duration": 233466,
+    "added": "2021-05-29T08:36:40Z"
+  },
+  {
+    "name": "The Anthem",
+    "artist": "Good Charlotte",
+    "album": "The Young and The Hopeless",
+    "released": "2002-10-04",
+    "duration": 175093,
+    "added": "2021-05-29T18:59:43Z"
+  },
+  {
+    "name": "Hold the Line",
+    "artist": "TOTO",
+    "album": "Toto",
+    "released": "1978-10-10",
+    "duration": 235546,
+    "added": "2021-05-29T08:37:14Z"
+  },
+  {
+    "name": "Do Wah Diddy Diddy - 2007 Remaster",
+    "artist": "Manfred Mann",
+    "album": "Down the Road Apiece - the Recordings 1963-1966",
+    "released": "1963",
+    "duration": 144146,
+    "added": "2021-05-29T08:38:07Z"
+  },
+  {
+    "name": "Old Time Rock & Roll",
+    "artist": "Bob Seger",
+    "album": "Stranger In Town",
+    "released": "1978-05-05",
+    "duration": 194146,
+    "added": "2021-05-29T08:38:35Z"
+  },
+  {
+    "name": "Life Is A Highway",
+    "artist": "Tom Cochrane",
+    "album": "Mad Mad World (Deluxe)",
+    "released": "1991-09-19",
+    "duration": 266080,
+    "added": "2021-05-29T08:39:08Z"
+  },
+  {
+    "name": "My Friends Over You",
+    "artist": "New Found Glory",
+    "album": "Sticks And Stones",
+    "released": "2002-06-11",
+    "duration": 220200,
+    "added": "2021-05-29T18:59:48Z"
+  },
+  {
+    "name": "Brown Eyed Girl",
+    "artist": "Van Morrison",
+    "album": "Blowin' Your Mind!",
+    "released": "1967-09",
+    "duration": 183306,
+    "added": "2021-05-29T08:39:26Z"
+  },
+  {
+    "name": "Life in the Fast Lane - 2013 Remaster",
+    "artist": "Eagles",
+    "album": "Hotel California (2013 Remaster)",
+    "released": "1976-12-08",
+    "duration": 286219,
+    "added": "2021-05-29T08:39:37Z"
+  },
+  {
+    "name": "Daydream Believer",
+    "artist": "The Monkees",
+    "album": "The Birds, The Bees, & The Monkees",
+    "released": "1968-04-22",
+    "duration": 179613,
+    "added": "2021-05-29T08:40:02Z"
+  },
+  {
+    "name": "Jack & Diane",
+    "artist": "John Mellencamp",
+    "album": "American Fool",
+    "released": "1982",
+    "duration": 254493,
+    "added": "2021-05-29T08:41:07Z"
+  },
+  {
+    "name": "Twist And Shout - Remastered 2009",
+    "artist": "The Beatles",
+    "album": "Please Please Me (Remastered)",
+    "released": "1963-03-22",
+    "duration": 155226,
+    "added": "2021-05-29T08:41:41Z"
+  },
+  {
+    "name": "Rebel Yell",
+    "artist": "Billy Idol",
+    "album": "Rebel Yell",
+    "released": "1983-11-01",
+    "duration": 288533,
+    "added": "2021-05-29T08:44:13Z"
+  },
+  {
+    "name": "Can't Stop",
+    "artist": "Red Hot Chili Peppers",
+    "album": "By the Way (Deluxe Edition)",
+    "released": "2002-07-09",
+    "duration": 269000,
+    "added": "2021-05-29T08:47:35Z"
+  },
+  {
+    "name": "Dammit",
+    "artist": "blink-182",
+    "album": "Dude Ranch",
+    "released": "1997",
+    "duration": 165373,
+    "added": "2021-05-29T19:01:11Z"
+  },
+  {
+    "name": "Pumped Up Kicks",
+    "artist": "Foster The People",
+    "album": "Torches",
+    "released": "2011-05-23",
+    "duration": 239600,
+    "added": "2021-05-29T08:47:58Z"
+  },
+  {
+    "name": "The Boys of Summer",
+    "artist": "The Ataris",
+    "album": "So Long, Astoria",
+    "released": "2003-03-04",
+    "duration": 258000,
+    "added": "2021-05-29T09:18:09Z"
+  },
+  {
+    "name": "Rock And Roll Part II",
+    "artist": "Gary Glitter",
+    "album": "The Replacements (Music From The Motion Picture)",
+    "released": "2000-01-01",
+    "duration": 180600,
+    "added": "2021-05-29T08:48:28Z"
+  },
+  {
+    "name": "That's Life",
+    "artist": "Frank Sinatra",
+    "album": "That's Life",
+    "released": "1966-11",
+    "duration": 187040,
+    "added": "2021-05-29T08:49:25Z"
+  },
+  {
+    "name": "Sweetness",
+    "artist": "Jimmy Eat World",
+    "album": "Bleed American",
+    "released": "2001-07-17",
+    "duration": 220026,
+    "added": "2021-05-29T19:00:23Z"
+  },
+  {
+    "name": "Ballroom Blitz",
+    "artist": "Sweet",
+    "album": "Desolation Boulevard",
+    "released": "1974-11",
+    "duration": 246573,
+    "added": "2021-05-29T08:51:14Z"
+  },
+  {
+    "name": "Welcome To The Jungle",
+    "artist": "Guns N' Roses",
+    "album": "Appetite For Destruction",
+    "released": "1987-07-21",
+    "duration": 273480,
+    "added": "2021-05-29T08:52:29Z"
+  },
+  {
+    "name": "Helena",
+    "artist": "My Chemical Romance",
+    "album": "Three Cheers for Sweet Revenge",
+    "released": "2004-06-08",
+    "duration": 204733,
+    "added": "2021-05-29T19:00:54Z"
+  },
+  {
+    "name": "Mr. Blue Sky",
+    "artist": "Electric Light Orchestra",
+    "album": "Out of the Blue",
+    "released": "1977",
+    "duration": 303373,
+    "added": "2021-05-29T08:53:09Z"
+  },
+  {
+    "name": "Don't Worry Be Happy",
+    "artist": "Bobby McFerrin",
+    "album": "Simple Pleasures",
+    "released": "1988-01-01",
+    "duration": 294400,
+    "added": "2021-05-29T09:01:45Z"
+  },
+  {
+    "name": "Some Nights",
+    "artist": "fun.",
+    "album": "Some Nights",
+    "released": "2012-02-21",
+    "duration": 277040,
+    "added": "2021-05-29T09:01:56Z"
+  },
+  {
+    "name": "(Sittin' On) the Dock of the Bay",
+    "artist": "Otis Redding",
+    "album": "The Dock of the Bay (Mono)",
+    "released": "1968",
+    "duration": 163755,
+    "added": "2021-05-29T09:04:06Z"
+  },
+  {
+    "name": "La Grange - 2005 Remaster",
+    "artist": "ZZ Top",
+    "album": "Tres Hombres (Expanded 2006 Remaster)",
+    "released": "1973-07-26",
+    "duration": 230480,
+    "added": "2021-05-29T09:04:23Z"
+  },
+  {
+    "name": "Jamie All Over",
+    "artist": "Mayday Parade",
+    "album": "A Lesson In Romantics",
+    "released": "2007-07-10",
+    "duration": 216000,
+    "added": "2021-05-29T18:58:44Z"
+  },
+  {
+    "name": "Good Vibrations - Remastered 2001",
+    "artist": "The Beach Boys",
+    "album": "Smiley Smile (Remastered)",
+    "released": "1967-09-18",
+    "duration": 219026,
+    "added": "2021-05-29T09:13:24Z"
+  },
+  {
+    "name": "The Taste of Ink",
+    "artist": "The Used",
+    "album": "The Used",
+    "released": "2002-06-25",
+    "duration": 208693,
+    "added": "2021-05-29T19:00:44Z"
+  },
+  {
+    "name": "Pretty Fly (For A White Guy)",
+    "artist": "The Offspring",
+    "album": "Americana",
+    "released": "1998-11-16",
+    "duration": 188666,
+    "added": "2021-05-29T09:13:44Z"
+  },
+  {
+    "name": "You're Gonna Go Far, Kid",
+    "artist": "The Offspring",
+    "album": "Rise And Fall, Rage And Grace",
+    "released": "2008-06-17",
+    "duration": 177826,
+    "added": "2021-05-29T09:13:58Z"
+  },
+  {
+    "name": "The Boys Of Summer",
+    "artist": "Don Henley",
+    "album": "Building The Perfect Beast",
+    "released": "1984-01-01",
+    "duration": 288733,
+    "added": "2021-05-29T09:16:21Z"
+  },
+  {
+    "name": "Logan To Government Center",
+    "artist": "Brand New",
+    "album": "Your Favorite Weapon",
+    "released": "2001",
+    "duration": 185720,
+    "added": "2021-05-29T09:18:02Z"
+  },
+  {
+    "name": "Hooked on a Feeling",
+    "artist": "Blue Swede",
+    "album": "Hooked On A Feeling - 40th Anniversary Collection",
+    "released": "2014-09-30",
+    "duration": 172866,
+    "added": "2021-05-29T09:19:47Z"
+  },
+  {
+    "name": "Closing Time",
+    "artist": "Semisonic",
+    "album": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
+    "released": "2003-01-01",
+    "duration": 274160,
+    "added": "2021-05-29T09:25:49Z"
+  },
+  {
+    "name": "Stayin Alive",
+    "artist": "Bee Gees",
+    "album": "How Can You Mend A Broken Heart",
+    "released": "2020-11-20",
+    "duration": 285373,
+    "added": "2021-05-29T09:20:14Z"
+  },
+  {
+    "name": "I Shot The Sheriff",
+    "artist": "Eric Clapton",
+    "album": "461 Ocean Blvd. (Deluxe Edition)",
+    "released": "1974-07-01",
+    "duration": 263746,
+    "added": "2021-05-29T09:20:24Z"
+  },
+  {
+    "name": "The Kids Aren't Alright",
+    "artist": "The Offspring",
+    "album": "Americana",
+    "released": "1998-11-16",
+    "duration": 180160,
+    "added": "2021-05-29T19:02:30Z"
+  },
+  {
+    "name": "Eye of the Tiger",
+    "artist": "Survivor",
+    "album": "Rocky IV",
+    "released": "1985",
+    "duration": 245640,
+    "added": "2021-05-29T09:21:02Z"
+  },
+  {
+    "name": "Runaround Sue",
+    "artist": "Dion",
+    "album": "Runaround Sue",
+    "released": "1961",
+    "duration": 171600,
+    "added": "2021-05-29T09:23:23Z"
+  },
+  {
+    "name": "Low Rider",
+    "artist": "War",
+    "album": "Why Can't We Be Friends?",
+    "released": "1975-01-01",
+    "duration": 190826,
+    "added": "2021-05-29T09:27:29Z"
+  },
+  {
+    "name": "Scar Tissue",
+    "artist": "Red Hot Chili Peppers",
+    "album": "Californication (Deluxe Edition)",
+    "released": "1999-06-08",
+    "duration": 215906,
+    "added": "2021-05-29T09:27:56Z"
+  },
+  {
+    "name": "Alright",
+    "artist": "Supergrass",
+    "album": "I Should Coco",
+    "released": "1995-05-15",
+    "duration": 180880,
+    "added": "2021-05-29T09:28:39Z"
+  },
+  {
+    "name": "I Fought the Law",
+    "artist": "The Clash",
+    "album": "Hits Back",
+    "released": "2013-08-26",
+    "duration": 163240,
+    "added": "2021-05-29T09:30:19Z"
+  },
+  {
+    "name": "I Gotta Feeling",
+    "artist": "Black Eyed Peas",
+    "album": "THE E.N.D. (THE ENERGY NEVER DIES)",
+    "released": "2009-01-01",
+    "duration": 289133,
+    "added": "2021-05-29T09:30:53Z"
+  },
+  {
+    "name": "Wrong Way",
+    "artist": "Sublime",
+    "album": "Sublime",
+    "released": "1996-07-30",
+    "duration": 136146,
+    "added": "2021-05-29T09:34:01Z"
+  },
+  {
+    "name": "What I Got",
+    "artist": "Sublime",
+    "album": "Sublime",
+    "released": "1996-07-30",
+    "duration": 170906,
+    "added": "2021-05-29T09:34:44Z"
+  },
+  {
+    "name": "Amber",
+    "artist": "311",
+    "album": "Greatest Hits '93 - '03",
+    "released": "2004-06-08",
+    "duration": 211080,
+    "added": "2021-05-29T09:35:59Z"
+  },
+  {
+    "name": "Vacation (feat. Train)",
+    "artist": "Dirty Heads",
+    "album": "Vacation (feat. Train)",
+    "released": "2021-05-28",
+    "duration": 212937,
+    "added": "2021-05-29T09:36:26Z"
+  },
+  {
+    "name": "The Best Of Me",
+    "artist": "The Starting Line",
+    "album": "Say It Like You Mean It",
+    "released": "2002-07-16",
+    "duration": 258266,
+    "added": "2021-05-29T19:00:39Z"
+  },
+  {
+    "name": "Doin' Time",
+    "artist": "Sublime",
+    "album": "Sublime",
+    "released": "1996-07-30",
+    "duration": 253840,
+    "added": "2021-05-29T09:37:21Z"
+  },
+  {
+    "name": "One Week",
+    "artist": "Barenaked Ladies",
+    "album": "Stunt (20th Anniversary Edition)",
+    "released": "1998-07-07",
+    "duration": 169760,
+    "added": "2021-05-29T09:38:26Z"
+  },
+  {
+    "name": "Sweet Emotion",
+    "artist": "Aerosmith",
+    "album": "Toys In The Attic",
+    "released": "1975-04-08",
+    "duration": 274133,
+    "added": "2021-05-29T09:39:48Z"
+  },
+  {
+    "name": "All Star",
+    "artist": "Smash Mouth",
+    "album": "Astro Lounge",
+    "released": "1999-06-08",
+    "duration": 200373,
+    "added": "2021-05-29T09:41:04Z"
+  },
+  {
+    "name": "Walk This Way",
+    "artist": "Aerosmith",
+    "album": "Toys In The Attic",
+    "released": "1975-04-08",
+    "duration": 220400,
+    "added": "2021-05-29T18:20:53Z"
+  },
+  {
+    "name": "Bohemian Rhapsody - Remastered 2011",
+    "artist": "Queen",
+    "album": "A Night At The Opera (Deluxe Remastered Version)",
+    "released": "1975-11-21",
+    "duration": 354320,
+    "added": "2021-05-29T18:25:58Z"
+  },
+  {
+    "name": "Fat Bottomed Girls - Single Version / Remastered 2011",
+    "artist": "Queen",
+    "album": "Jazz (Deluxe Remastered Version)",
+    "released": "1978-11-10",
+    "duration": 203280,
+    "added": "2021-05-29T18:26:09Z"
+  },
+  {
+    "name": "We Will Rock You - Remastered 2011",
+    "artist": "Queen",
+    "album": "News Of The World (Deluxe Remastered Version)",
+    "released": "1977-10-28",
+    "duration": 122066,
+    "added": "2021-05-29T18:26:33Z"
+  },
+  {
+    "name": "Black Betty",
+    "artist": "Ram Jam",
+    "album": "Ram Jam",
+    "released": "1977-06-20",
+    "duration": 238973,
+    "added": "2021-05-29T18:45:25Z"
+  },
+  {
+    "name": "No Rain",
+    "artist": "Blind Melon",
+    "album": "Blind Melon",
+    "released": "1992-01-01",
+    "duration": 217106,
+    "added": "2021-05-29T18:47:15Z"
+  },
+  {
+    "name": "Slow Ride",
+    "artist": "Foghat",
+    "album": "Slow Ride / Save Your Loving (For Me)",
+    "released": "1975",
+    "duration": 232533,
+    "added": "2021-05-29T18:47:45Z"
+  },
+  {
+    "name": "Me and Julio Down by the Schoolyard",
+    "artist": "Paul Simon",
+    "album": "Paul Simon",
+    "released": "1972-01-14",
+    "duration": 164813,
+    "added": "2021-05-29T18:48:40Z"
+  },
+  {
+    "name": "Joy To The World",
+    "artist": "Three Dog Night",
+    "album": "Naturally",
+    "released": "1970-01-01",
+    "duration": 220573,
+    "added": "2021-05-29T18:49:48Z"
+  },
+  {
+    "name": "Again I Go Unnoticed",
+    "artist": "Dashboard Confessional",
+    "album": "The Swiss Army Romance",
+    "released": "2000-03-01",
+    "duration": 144440,
+    "added": "2021-05-29T18:52:00Z"
+  },
+  {
+    "name": "What's My Age Again?",
+    "artist": "blink-182",
+    "album": "Enema Of The State",
+    "released": "1999-06-01",
+    "duration": 148360,
+    "added": "2021-05-29T18:54:08Z"
+  },
+  {
+    "name": "Holiday / Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "album": "American Idiot",
+    "released": "2004-09-21",
+    "duration": 493400,
+    "added": "2021-05-30T07:37:45Z"
+  },
+  {
+    "name": "Clocks",
+    "artist": "Coldplay",
+    "album": "A Rush of Blood to the Head",
+    "released": "2002-08-08",
+    "duration": 307879,
+    "added": "2021-05-30T07:39:18Z"
+  },
+  {
+    "name": "Wonderwall",
+    "artist": "Oasis",
+    "album": "(What's The Story) Morning Glory?",
+    "released": "1995-10-02",
+    "duration": 258906,
+    "added": "2021-05-30T07:39:30Z"
+  },
+  {
+    "name": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses",
+    "album": "Appetite For Destruction",
+    "released": "1987-07-21",
+    "duration": 356066,
+    "added": "2021-05-30T07:40:29Z"
+  },
+  {
+    "name": "Never Come Down",
+    "artist": "Brave Shores",
+    "album": "Brave Shores",
+    "released": "2014-10-27",
+    "duration": 145706,
+    "added": "2021-05-29T07:04:45Z"
+  },
+  {
+    "name": "Teenage Dirtbag",
+    "artist": "Wheatus",
+    "album": "Wheatus",
+    "released": "1999-02-15",
+    "duration": 241666,
+    "added": "2021-07-03T09:03:26Z"
+  }
+]
