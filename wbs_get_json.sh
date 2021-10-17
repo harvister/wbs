@@ -9,7 +9,7 @@ fi
 
 echo 1>&2 "playlist: $playlist_id"
 
-token=`curl -s 'https://open.spotify.com/playlist/$playlist_id' \
+token=`curl -s "https://open.spotify.com/playlist/$playlist_id" \
   -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36' \
   --compressed | tail -n 1 | perl -pe 's|.*accessToken\":\"(.*?)\".*|\1|'`
 
