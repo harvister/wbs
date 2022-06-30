@@ -3,7 +3,7 @@
     "name": "Mr. Brightside",
     "artist": "The Killers",
     "album": "Hot Fuss",
-    "released": "2004-06-15",
+    "released": "2004",
     "duration": 222973,
     "added": "2021-05-29T06:45:28Z"
   },
@@ -90,8 +90,8 @@
   {
     "name": "The Middle",
     "artist": "Jimmy Eat World",
-    "album": "Bleed American (Deluxe Edition)",
-    "released": "2001",
+    "album": "Bleed American",
+    "released": "2001-07-17",
     "duration": 165853,
     "added": "2021-05-29T07:57:24Z"
   },
@@ -186,8 +186,8 @@
   {
     "name": "Jessie's Girl",
     "artist": "Rick Springfield",
-    "album": "Teen Idols",
-    "released": "1999-05-30",
+    "album": "Working Class Dog",
+    "released": "1981",
     "duration": 194120,
     "added": "2021-05-29T08:01:51Z"
   },
@@ -298,8 +298,8 @@
   {
     "name": "You Give Love A Bad Name",
     "artist": "Bon Jovi",
-    "album": "Slippery When Wet (Remastered)",
-    "released": "1986-01-01",
+    "album": "Slippery When Wet",
+    "released": "1986-08-16",
     "duration": 222706,
     "added": "2021-05-29T08:02:44Z"
   },
@@ -442,7 +442,7 @@
   {
     "name": "You're So Last Summer - Remastered",
     "artist": "Taking Back Sunday",
-    "album": "Tell All Your Friends",
+    "album": "Tell All Your Friends (Remastered)",
     "released": "2002-03-26",
     "duration": 181336,
     "added": "2021-05-29T18:57:28Z"
@@ -515,7 +515,7 @@
     "name": "Smile Like You Mean It",
     "artist": "The Killers",
     "album": "Hot Fuss",
-    "released": "2004-06-15",
+    "released": "2004",
     "duration": 234106,
     "added": "2021-05-29T19:04:18Z"
   },
@@ -579,7 +579,7 @@
     "name": "Swing, Swing",
     "artist": "The All-American Rejects",
     "album": "The All-American Rejects",
-    "released": "2002-01-01",
+    "released": "2002-10-15",
     "duration": 233266,
     "added": "2021-05-29T18:57:44Z"
   },
