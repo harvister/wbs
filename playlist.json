@@ -507,7 +507,7 @@
     "name": "Mr. Brightside",
     "artist": "The Killers",
     "album": "Hot Fuss",
-    "released": "2004",
+    "released": "2004-06-15",
     "duration": 222973,
     "added": "2021-06-25T06:23:51Z"
   },
@@ -834,8 +834,8 @@
   {
     "name": "This Charming Man - 2011 Remaster",
     "artist": "The Smiths",
-    "album": "The Smiths",
-    "released": "1984-02-20",
+    "album": "The 80s",
+    "released": "2019-12-13",
     "duration": 162920,
     "added": "2021-06-25T06:23:51Z"
   },
@@ -979,7 +979,7 @@
     "name": "Somebody Told Me",
     "artist": "The Killers",
     "album": "Hot Fuss",
-    "released": "2004",
+    "released": "2004-06-15",
     "duration": 197200,
     "added": "2021-06-25T06:23:51Z"
   },
@@ -1435,7 +1435,7 @@
     "name": "Smile Like You Mean It",
     "artist": "The Killers",
     "album": "Hot Fuss",
-    "released": "2004",
+    "released": "2004-06-15",
     "duration": 234106,
     "added": "2021-06-25T06:23:51Z"
   },
@@ -2186,8 +2186,8 @@
   {
     "name": "Fiona Coyne",
     "artist": "Skylar Spence",
-    "album": "Fiona Coyne/Fall Harder",
-    "released": "2014-08-08",
+    "album": "Prom King",
+    "released": "2015-09-18",
     "duration": 249319,
     "added": "2021-06-25T06:23:51Z"
   },
