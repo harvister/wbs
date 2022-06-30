@@ -507,7 +507,7 @@
     "name": "Mr. Brightside",
     "artist": "The Killers",
     "album": "Hot Fuss",
-    "released": "2004",
+    "released": "2004-06-15",
     "duration": 222973,
     "added": "2021-06-25T06:23:51Z"
   },
@@ -2186,8 +2186,8 @@
   {
     "name": "Fiona Coyne",
     "artist": "Skylar Spence",
-    "album": "Prom King",
-    "released": "2015-09-18",
+    "album": "Fiona Coyne/Fall Harder",
+    "released": "2014-08-08",
     "duration": 249319,
     "added": "2021-06-25T06:23:51Z"
   },
