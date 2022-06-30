@@ -507,7 +507,7 @@
     "name": "Mr. Brightside",
     "artist": "The Killers",
     "album": "Hot Fuss",
-    "released": "2004",
+    "released": "2004-06-15",
     "duration": 222973,
     "added": "2021-06-25T06:23:51Z"
   },
@@ -588,7 +588,7 @@
     "artist": "Fitz and The Tantrums",
     "album": "More Than Just a Dream (Deluxe Edition)",
     "released": "2013-05-07",
-    "duration": 233133,
+    "duration": 29048,
     "added": "2021-06-25T06:23:51Z"
   },
   {
@@ -676,7 +676,7 @@
     "artist": "Phoenix",
     "album": "Wolfgang Amadeus Phoenix",
     "released": "2009-05-25",
-    "duration": 193106,
+    "duration": 29048,
     "added": "2021-06-25T06:23:51Z"
   },
   {
@@ -708,7 +708,7 @@
     "artist": "Black Eyed Peas",
     "album": "THE E.N.D. (THE ENERGY NEVER DIES)",
     "released": "2009-01-01",
-    "duration": 289133,
+    "duration": 29048,
     "added": "2021-06-25T06:23:51Z"
   },
   {
@@ -1484,7 +1484,7 @@
     "artist": "Phoenix",
     "album": "Wolfgang Amadeus Phoenix",
     "released": "2009-05-25",
-    "duration": 167840,
+    "duration": 29048,
     "added": "2021-06-25T06:23:51Z"
   },
   {
@@ -1660,7 +1660,7 @@
     "artist": "Steely Dan",
     "album": "Can't Buy A Thrill",
     "released": "1972-01-01",
-    "duration": 275466,
+    "duration": 29048,
     "added": "2021-06-25T06:23:51Z"
   },
   {
@@ -1852,7 +1852,7 @@
     "artist": "Blondie",
     "album": "Parallel Lines",
     "released": "1978-09-23",
-    "duration": 229423,
+    "duration": 29048,
     "added": "2021-06-25T06:23:51Z"
   },
   {
@@ -2186,8 +2186,8 @@
   {
     "name": "Fiona Coyne",
     "artist": "Skylar Spence",
-    "album": "Fiona Coyne/Fall Harder",
-    "released": "2014-08-08",
+    "album": "Prom King",
+    "released": "2015-09-18",
     "duration": 249319,
     "added": "2021-06-25T06:23:51Z"
   },
