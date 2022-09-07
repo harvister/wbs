@@ -3,7 +3,7 @@
     "name": "Mr. Brightside",
     "artist": "The Killers",
     "album": "Hot Fuss",
-    "released": "2004",
+    "released": "2004-06-15",
     "duration": 222973,
     "added": "2021-05-29T06:45:28Z"
   },
@@ -90,8 +90,8 @@
   {
     "name": "The Middle",
     "artist": "Jimmy Eat World",
-    "album": "Bleed American",
-    "released": "2001-07-17",
+    "album": "Bleed American (Deluxe Edition)",
+    "released": "2001",
     "duration": 165853,
     "added": "2021-05-29T07:57:24Z"
   },
@@ -186,8 +186,8 @@
   {
     "name": "Jessie's Girl",
     "artist": "Rick Springfield",
-    "album": "Working Class Dog",
-    "released": "1981",
+    "album": "Teen Idols",
+    "released": "1999-05-30",
     "duration": 194120,
     "added": "2021-05-29T08:01:51Z"
   },
@@ -298,8 +298,8 @@
   {
     "name": "You Give Love A Bad Name",
     "artist": "Bon Jovi",
-    "album": "Slippery When Wet",
-    "released": "1986-08-16",
+    "album": "Slippery When Wet (Remastered)",
+    "released": "1986-01-01",
     "duration": 222706,
     "added": "2021-05-29T08:02:44Z"
   },
@@ -442,7 +442,7 @@
   {
     "name": "You're So Last Summer - Remastered",
     "artist": "Taking Back Sunday",
-    "album": "Tell All Your Friends (Remastered)",
+    "album": "Tell All Your Friends",
     "released": "2002-03-26",
     "duration": 181336,
     "added": "2021-05-29T18:57:28Z"
@@ -515,7 +515,7 @@
     "name": "Smile Like You Mean It",
     "artist": "The Killers",
     "album": "Hot Fuss",
-    "released": "2004",
+    "released": "2004-06-15",
     "duration": 234106,
     "added": "2021-05-29T19:04:18Z"
   },
@@ -579,7 +579,7 @@
     "name": "Swing, Swing",
     "artist": "The All-American Rejects",
     "album": "The All-American Rejects",
-    "released": "2002-10-15",
+    "released": "2002-01-01",
     "duration": 233266,
     "added": "2021-05-29T18:57:44Z"
   },
@@ -818,8 +818,8 @@
   {
     "name": "Lola (Mono Single Version \"Cherry Cola\") - 2014 Remastered Version",
     "artist": "The Kinks",
-    "album": "Lola vs. Powerman and the Moneygoround, Pt. One + Percy (Super Deluxe)",
-    "released": "2014-10-20",
+    "album": "Lola Versus Powerman and the Moneygoround, Pt. One",
+    "released": "1970-11-27",
     "duration": 245626,
     "added": "2021-05-29T08:32:05Z"
   },
@@ -962,8 +962,8 @@
   {
     "name": "My Friends Over You",
     "artist": "New Found Glory",
-    "album": "Sticks And Stones",
-    "released": "2002-06-11",
+    "album": "Sticks and Stones",
+    "released": "2002-01-01",
     "duration": 220200,
     "added": "2021-05-29T18:59:48Z"
   },
@@ -1330,8 +1330,8 @@
   {
     "name": "Doin' Time",
     "artist": "Sublime",
-    "album": "Sublime",
-    "released": "1996-07-30",
+    "album": "Sublime Greatest Hits",
+    "released": "1999-11-09",
     "duration": 253840,
     "added": "2021-05-29T09:37:21Z"
   },
@@ -1370,23 +1370,23 @@
   {
     "name": "Bohemian Rhapsody - Remastered 2011",
     "artist": "Queen",
-    "album": "A Night At The Opera (Deluxe Remastered Version)",
-    "released": "1975-11-21",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "released": "2018-10-19",
     "duration": 354320,
     "added": "2021-05-29T18:25:58Z"
   },
   {
     "name": "Fat Bottomed Girls - Single Version / Remastered 2011",
     "artist": "Queen",
-    "album": "Jazz (Deluxe Remastered Version)",
-    "released": "1978-11-10",
+    "album": "Greatest Hits (Remastered)",
+    "released": "1981-10-26",
     "duration": 203280,
     "added": "2021-05-29T18:26:09Z"
   },
   {
     "name": "We Will Rock You - Remastered 2011",
     "artist": "Queen",
-    "album": "News Of The World (Deluxe Remastered Version)",
+    "album": "News Of The World (2011 Remaster)",
     "released": "1977-10-28",
     "duration": 122066,
     "added": "2021-05-29T18:26:33Z"
@@ -1435,7 +1435,7 @@
     "name": "Again I Go Unnoticed",
     "artist": "Dashboard Confessional",
     "album": "The Swiss Army Romance",
-    "released": "2000-03-01",
+    "released": "2000",
     "duration": 144440,
     "added": "2021-05-29T18:52:00Z"
   },
@@ -1443,7 +1443,7 @@
     "name": "What's My Age Again?",
     "artist": "blink-182",
     "album": "Enema Of The State",
-    "released": "1999-06-01",
+    "released": "1999-01-01",
     "duration": 148360,
     "added": "2021-05-29T18:54:08Z"
   },
