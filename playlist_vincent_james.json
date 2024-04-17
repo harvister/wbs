@@ -4,7 +4,7 @@
     "artist": "The Killers",
     "album": "Hot Fuss",
     "released": "2004-06-15",
-    "duration": 222973,
+    "duration": 222586,
     "added": "2021-05-29T06:45:28Z"
   },
   {
@@ -20,7 +20,7 @@
     "artist": "Sublime",
     "album": "Sublime",
     "released": "1996-07-30",
-    "duration": 182746,
+    "duration": 183160,
     "added": "2021-05-29T08:05:36Z"
   },
   {
@@ -28,7 +28,7 @@
     "artist": "Mungo Jerry",
     "album": "In the Summertime",
     "released": "1970-01-01",
-    "duration": 211880,
+    "duration": 215800,
     "added": "2021-05-29T08:38:47Z"
   },
   {
@@ -92,7 +92,7 @@
     "artist": "Jimmy Eat World",
     "album": "Bleed American (Deluxe Edition)",
     "released": "2001",
-    "duration": 165853,
+    "duration": 168253,
     "added": "2021-05-29T07:57:24Z"
   },
   {
@@ -188,7 +188,7 @@
     "artist": "Rick Springfield",
     "album": "Teen Idols",
     "released": "1999-05-30",
-    "duration": 194120,
+    "duration": 195933,
     "added": "2021-05-29T08:01:51Z"
   },
   {
@@ -256,11 +256,11 @@
     "added": "2021-05-29T08:22:53Z"
   },
   {
-    "name": "Don't Stop Believin' (2022 Remaster)",
+    "name": "Don't Stop Believin'",
     "artist": "Journey",
     "album": "Escape (Bonus Track Version)",
     "released": "1981",
-    "duration": 249600,
+    "duration": 250986,
     "added": "2021-05-29T08:02:25Z"
   },
   {
@@ -332,7 +332,7 @@
     "artist": "American Hi-Fi",
     "album": "American Hi-Fi",
     "released": "2001-01-01",
-    "duration": 188866,
+    "duration": 188840,
     "added": "2021-05-29T08:08:31Z"
   },
   {
@@ -440,11 +440,11 @@
     "added": "2021-05-29T08:15:49Z"
   },
   {
-    "name": "You're So Last Summer - Remastered",
+    "name": "You're So Last Summer",
     "artist": "Taking Back Sunday",
     "album": "Tell All Your Friends",
     "released": "2002-03-26",
-    "duration": 181336,
+    "duration": 179453,
     "added": "2021-05-29T18:57:28Z"
   },
   {
@@ -508,7 +508,7 @@
     "artist": "The Trashmen",
     "album": "Tube City! Best of The Trashmen",
     "released": "1992-07-21",
-    "duration": 144067,
+    "duration": 143293,
     "added": "2021-05-29T08:17:30Z"
   },
   {
@@ -676,7 +676,7 @@
     "artist": "Jim Croce",
     "album": "Life & Times",
     "released": "1973-07-01",
-    "duration": 179466,
+    "duration": 182240,
     "added": "2021-05-29T08:30:30Z"
   },
   {
@@ -816,11 +816,11 @@
     "added": "2021-05-29T18:59:23Z"
   },
   {
-    "name": "Lola (2020 Stereo Remaster)",
+    "name": "Lola",
     "artist": "The Kinks",
     "album": "Lola Versus Powerman and the Moneygoround, Pt. One",
     "released": "1970-11-27",
-    "duration": 241991,
+    "duration": 241040,
     "added": "2021-05-29T08:32:05Z"
   },
   {
@@ -1048,11 +1048,11 @@
     "added": "2021-05-29T09:18:09Z"
   },
   {
-    "name": "Rock 'n' Roll (Part 2)",
+    "name": "Rock And Roll Part II",
     "artist": "Gary Glitter",
     "album": "The Replacements (Music From The Motion Picture)",
     "released": "2000-01-01",
-    "duration": 193253,
+    "duration": 180600,
     "added": "2021-05-29T08:48:28Z"
   },
   {
@@ -1128,7 +1128,7 @@
     "added": "2021-05-29T09:04:06Z"
   },
   {
-    "name": "La Grange (2005 Remaster)",
+    "name": "La Grange - 2005 Remaster",
     "artist": "ZZ Top",
     "album": "Tres Hombres (Expanded 2006 Remaster)",
     "released": "1973-07-26",
@@ -1332,7 +1332,7 @@
     "artist": "Sublime",
     "album": "Sublime Greatest Hits",
     "released": "1999-11-09",
-    "duration": 253840,
+    "duration": 251120,
     "added": "2021-05-29T09:37:21Z"
   },
   {
@@ -1348,7 +1348,7 @@
     "artist": "Aerosmith",
     "album": "Toys In The Attic",
     "released": "1975-04-08",
-    "duration": 274088,
+    "duration": 274133,
     "added": "2021-05-29T09:39:48Z"
   },
   {
@@ -1364,23 +1364,23 @@
     "artist": "Aerosmith",
     "album": "Toys In The Attic",
     "released": "1975-04-08",
-    "duration": 220310,
+    "duration": 220400,
     "added": "2021-05-29T18:20:53Z"
   },
   {
-    "name": "Bohemian Rhapsody - Remastered 2011",
+    "name": "Bohemian Rhapsody",
     "artist": "Queen",
     "album": "Bohemian Rhapsody (The Original Soundtrack)",
     "released": "2018-10-19",
-    "duration": 354320,
+    "duration": 354947,
     "added": "2021-05-29T18:25:58Z"
   },
   {
-    "name": "Fat Bottomed Girls - Single Version / Remastered 2011",
+    "name": "Fat Bottomed Girls - Remastered 2011",
     "artist": "Queen",
     "album": "Greatest Hits (Remastered)",
     "released": "1981-10-26",
-    "duration": 203280,
+    "duration": 202440,
     "added": "2021-05-29T18:26:09Z"
   },
   {
@@ -1444,7 +1444,7 @@
     "artist": "blink-182",
     "album": "Enema Of The State",
     "released": "1999-01-01",
-    "duration": 148360,
+    "duration": 148573,
     "added": "2021-05-29T18:54:08Z"
   },
   {
